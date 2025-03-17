@@ -3,6 +3,7 @@
 
 
 Image Slider
+
 #This project is a simple image slider website featuring a smooth, animated carousel built using HTML, CSS, and JavaScript. 
 The slider displays Harry Potter character images with descriptions and navigation controls.
 
